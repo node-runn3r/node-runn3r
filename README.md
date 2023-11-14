@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @node-runn3r      
-- 👀 I’m interested in web3
+- 👀 I’m interested in web3 
 - 🌱 I’m currently learning zkp
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ... 
