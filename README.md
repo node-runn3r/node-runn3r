@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @node-runn3r            
+- 👋 Hi, I’m @node-runn3r             
 - 👀 I’m interested in web3 
 - 🌱 I’m currently learning zkp
 - 💞️ I’m looking to collaborate on ...
